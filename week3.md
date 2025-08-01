@@ -17,7 +17,7 @@
 | Quest 1     |                     |
 | Quest 2     |                     |
 | Quest 3     |                     |
-| Quest 4     |                     |
+| Quest 4     |         주간 셀프 퀴즈 피드백            |
 
 ## 퀘스트 개선 과정
 
@@ -235,6 +235,8 @@ before | after
 - 누적된 파일을 바탕으로 퀴즈를 만들어내기 더 쉬움.
 
 <img width="800" height="408" alt="image" src="https://github.com/user-attachments/assets/42c50a53-b37c-400a-a44c-4b7bd566b4b8" />
+
+
 (NodebookLM의 모습)
 
 
